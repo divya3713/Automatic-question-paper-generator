@@ -78,8 +78,6 @@ Acknowledgement
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
-***********
-Dashboard
-***********
-![Screenshot]("C:\Users\Hp\OneDrive\Pictures\Screenshots 1\Screenshot 2025-08-16 200515.png")
+
+
 
